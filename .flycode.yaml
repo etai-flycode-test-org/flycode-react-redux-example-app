@@ -5,10 +5,7 @@ environments:
     mode: pull-request
 apps:
   - name: flycode-react-redux-example-app
-    path: ""
+    path: src/
     text-resources:
       - path: "*.tsx"
         format: react-hardcoded
-
-
-
